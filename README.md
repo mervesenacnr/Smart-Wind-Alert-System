@@ -8,7 +8,7 @@ A simulated wind speed monitoring and alert system powered by Arduino (via Wokwi
 
 This project emulates a wind speed detection system using **Wokwi’s virtual Arduino platform**. It integrates a **potentiometer** (as wind input), **LCD display**, **buzzer alert**, and **SD card logging**. After running the simulation, data is analyzed using **Python in Google Colab** to build a machine learning model that predicts buzzer activity based on wind speed.
 
-![Simulation Setup](images/simulation-overview.png)
+![Simulation Setup](images/simulation-overview.jpg)
 
 ---
 
